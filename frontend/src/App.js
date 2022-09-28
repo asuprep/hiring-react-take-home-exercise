@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 const { UNNECESSARY_SECRET } = process.env;
 
 var hitBackend = () => {
-	axios.get("/test").then((response) => {
+	axios.get("/special_endpoint").then((response) => {
 		console.log(response.data);
 	});
 };

@@ -9,7 +9,7 @@ const link_object = {
                         title_font_size_in_rem: 4
                 };
 
-app.get("/test", (req, res) => {
+app.get("/special_endpoint", (req, res) => {
 	res.setHeader("Content-Type", "application/json");
 	res.end(
 		JSON.stringify(link_object)
