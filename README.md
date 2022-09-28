@@ -18,4 +18,4 @@ Please do the following tasks.
 7. The backend sends a simple json object, please print out the url to the frontend.
 8. Perform any CSS optimizations or framework adjustments
 
-When you are done, please use the zip feature on github to download a copy of your code and deliver this to us either by attachment or as a google file.
+When you are done, please use the zip feature on github to download a copy of your code and deliver this to us either by attachment or as a google file. Also if you have further improvements for which you did not have time, please let us know in the readme of your repo. 
