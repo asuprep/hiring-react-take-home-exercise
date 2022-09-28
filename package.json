@@ -1,0 +1,24 @@
+{
+  "name": "react_take_home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend": "node backend/index.js",
+    "frontend": "cd frontend && yarn start && cd ..",
+    "lint": "eslint backend/*.js && eslint frontend/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.24.0",
+    "express": "^4.18.1",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1",
+    "eslint-plugin-react": "^7.31.8"
+  }
+}
