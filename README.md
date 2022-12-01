@@ -7,7 +7,7 @@ yarn backend
 yarn frontend
 ```
 
-Please do the following tasks.
+Please do the following tasks, with the goal of making the project "production ready" and supportable in the long term.
 
 1. Convert this simple frontend/backend app into NextJS
 2. Type link_object in backend/index.js
